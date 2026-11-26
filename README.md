@@ -12,7 +12,7 @@ One line an AI agent offers as its excuse for a test suite that is all green whi
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (104 characters, one line, deterministic).
+Writes the line to `/output/entry.txt` (101 characters, one line, deterministic).
 
 ---
 
